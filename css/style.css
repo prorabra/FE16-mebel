@@ -5,6 +5,21 @@ p{margin: 0}
 .wrapper{margin: 0 auto;width: 70%;}
 header{background: url(../images/fon1.jpg);height: 874px;z-index: -1;width: 100%}
 .svh1{height: 122px;background-color: #fff;padding: 0 24% 0 24%}
+.svh2{height: 195px;width: 100%;background: url(../images/fon.png);margin: 26px 0 0 0}
+.svh3{height: 437px;width: 433px;background: url(../images/fonS.png);margin:  40px auto;}
+.svh4{margin: 0 auto;width: 384px;padding: 10px 0 0 0}
 .otst1{padding: 29px 15px 20px 0}
 .otst2{padding: 38px 0 20px 0}
+.otst3{padding: 32px 0 10px 0}
 .flL{float: left;}
+.flR{float: right;}
+.butS{border-color: red; background-color: white;width: 158px;height: 35px;margin: 8px 0 0 0;color: red}
+.clr{clear: both;}
+.h1{width: 620px; font-weight: 300;font-size: 44px;padding:  35px 0 20px 0;color: #333333}
+.h3{font-weight: 100;width: 470px;padding: 15px 0 0 0;color: #333333}
+.h31{font-weight: 600;width: 460px;color: #333333}
+.h32{font-weight: 100;width: 386px;padding: 30px 0 10px 0;color: white;font-size: 22px}
+.ul{list-style: square ;color: red;margin: 0}
+.p{color: white;font-size: 18px;padding: 4px 5px}
+input{width: 360px;height: 33px;padding: 0 0 0 20px;margin: 10px 0}
+.inp{height: 47px;width:260px;background: #ec282d;border-color: #ec282d;color: white;font-size: 16px;font-weight: bold;}
