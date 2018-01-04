@@ -1,2 +1,10 @@
 body{margin: 0 auto;padding: 0;}
+h2{margin: 0}
+.col{margin: 0;font-weight: 100;color: #a0a0a0;font-size: 1.35em}
+p{margin: 0}
 .wrapper{margin: 0 auto;width: 70%;}
+header{background: url(../images/fon1.jpg);height: 874px;z-index: -1;width: 100%}
+.svh1{height: 122px;background-color: #fff;padding: 0 24% 0 24%}
+.otst1{padding: 29px 15px 20px 0}
+.otst2{padding: 38px 0 20px 0}
+.flL{float: left;}
