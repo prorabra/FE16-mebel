@@ -1,2 +1,78 @@
-body{margin: 0 auto;padding: 0;}
-.wrapper{margin: 0 auto;width: 70%;}
+body{
+	margin: 0 auto;
+	padding: 0;
+}
+.wrapper{
+	margin: 0 auto;
+	width: 70%;
+}
+
+/*FORM FOR QUESTIONS*/
+
+.form_for_questions{
+	background: url(../images/fon_form.jpg) no-repeat;
+	background-size: cover;
+	height: 622px;
+	width:1920;
+	color: white;
+	padding-top: 82px;
+}
+.for_questions {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 440px;
+  height: 295px;
+  z-index: 230;
+  margin: 0 auto;
+  padding-top: 53px;
+  margin-bottom: 78px;
+}
+.form_for_questions>h2{
+  font-size: 61px;
+  font-family: "OpenSans";
+  text-transform: uppercase;
+  text-align: center;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  margin-bottom: 17px;
+}
+.form_for_questions>span{
+  font-size: 38px;
+  font-family: 'Open Sans', sans-serif;
+  display: block;
+  text-align: center;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+   margin-bottom: 67px;
+}
+.for_questions>form>input{
+	width: 374px;
+	height: 37px;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 18px;
+	padding-left: 12px
+}
+.for_questions>form>input:hover{
+	border: 1px solid red;
+}
+.for_questions>form>input[type="submit"]{
+  border-radius: 2px;
+  background-color: rgb(236, 32, 38);
+  width: 262px;
+  height: 49px;
+  font-size: 19px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.421;
+  text-align: left;
+  border:none;
+  opacity: 1;
+  z-index: 1800;
+  margin-top: 39px;
+  padding-left: 31px;
+  margin-left: 25px;
+}
+
+
+
+/*/FORM FOR QUESTIONS*/
