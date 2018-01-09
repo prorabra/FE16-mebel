@@ -1,2 +1,132 @@
-body{margin: 0 auto;padding: 0;}
-.wrapper{margin: 0 auto;width: 70%;}
+body{
+	margin: 0 auto;padding: 0;
+	background-image: url(../images/backCity.jpg);
+	background-position: 0% 0%;
+	background-repeat: no-repeat;
+	}
+.wrapper{
+	margin: 0 auto;width: 70%;
+}
+p {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+.head{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 38px;
+	position: relative;
+}
+div.head>img{
+	position: absolute;
+	top: 110px;
+	right: 405px;
+}
+.resize1{
+	overflow: hidden;
+	margin-top: 65px;
+	padding-top: 5px;
+	text-align: center;
+}
+.leftBox1{
+	float: left;
+	width: 480px;
+}
+.rightBox1{
+	float: right;
+	width: 480px;
+}
+.imgM{
+	position: relative;
+	z-index: 1;
+}
+.imgEl{
+	position: relative;
+	bottom: 265px;
+	left: 75px;
+	z-index: 2;
+}
+.imgEr{
+	position: relative;
+	bottom: 133px;
+	right: 75px;
+	z-index: 2;
+}
+div.leftBox1>p{
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: bold;
+	position: relative;
+	bottom: 100px;
+}
+div.rightBox1>p{
+	text-transform: uppercase;
+	font-size: 24px;
+	position: relative;
+	bottom: 100px;
+}
+div.leftBox1>img{
+	position: relative;
+	bottom: 75px;
+}
+div.rightBox1>img{
+	position: relative;
+	bottom: 75px;
+}
+.resize2{
+	overflow: hidden;
+	position: relative;
+	bottom: 70px;
+}
+.leftBox2{
+	float: right;
+	width: 480px;
+}
+.rightBox2{
+	float: left;
+	width: 480px;
+}
+li {
+	font-family: sans-serif;
+	font-size: 18px;
+	margin: 25px;
+	padding-left: 15px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-image: url(../images/square.png);
+}
+.redT{
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #ec2026;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.BoldT{
+	font-size: 18px;
+	font-weight: bold;
+}
+.Button{
+	color: #ec2026;
+	position: relative;
+	border-style: solid;
+	height: 60px;
+	width: 440px;
+	left: 300px;
+}
+div.Button>a{
+	position: absolute;
+	color: #ec2026;
+	text-decoration: none;
+	user-select: none;
+	font-size: 18px;
+	font-family: sans-serif;
+	top: 20px;
+	left: 50px;
+}
+.backF{
+	float: right;
+}
